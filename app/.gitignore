@@ -45,6 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+scripts/jquery-3.2.1.min.js
 
-/androidtoneplayer
+#misc
 /build
+/subProject

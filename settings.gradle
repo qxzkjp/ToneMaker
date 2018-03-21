@@ -1,0 +1,2 @@
+include ':app', ':androidtoneplayer'//, ':androidTonePlayer'
+//project(':androidTonePlayer').projectDir = new File('app/subProject/androidTonePlayer')
